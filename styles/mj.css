@@ -1,0 +1,29 @@
+#mjlogo {
+	font-size:48px;
+	margin:10px;
+}
+
+h3, .navbar {
+	font-variant: small-caps;
+}
+
+.container {
+margin-top:0;
+}
+body {
+	padding-top:30px;
+	
+}
+
+footer {
+	padding: 30px;
+	margin: 20px;
+}
+
+.panel {
+	border: none;
+}
+
+.thumbnail {
+	border:none;
+}
