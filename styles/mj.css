@@ -1,6 +1,10 @@
+body {
+	padding: 0;
+	margin: 0;
+}
 #mjlogo {
 	font-size:48px;
-	margin:10px;
+	margin:20px;
 }
 
 h3, .navbar {
@@ -16,8 +20,8 @@ body {
 }
 
 footer {
-	padding: 30px;
-	margin: 20px;
+	padding: 10px;
+	border-top: 1px;
 }
 
 .panel {
@@ -26,4 +30,12 @@ footer {
 
 .thumbnail {
 	border:none;
+}
+
+.alert {
+	font-size: 20px;
+	position:absolute;
+	top:0px;
+	width: 100%;
+	opacity:  0.3;
 }

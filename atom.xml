@@ -3,7 +3,7 @@
 	<title>Marital Justice</title>
 	<link href="http://maritaljustice.org/atom.xml" rel="self"/>
 	<link href="http://maritaljustice.org"/>
-	<updated>2014-01-31T17:48:01.341Z</updated>
+	<updated>2014-01-31T22:19:33.354Z</updated>
 	<id>http://maritaljustice.org</id>
 	<author>
 		<name>Marital Justice</name>
@@ -24,7 +24,7 @@
 	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
 
 	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
-		 More info: h5bp.com/i/378 --&gt;
+	More info: h5bp.com/i/378 --&gt;
 	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 
 	&lt;!-- Our site title and description --&gt;
@@ -40,99 +40,103 @@
 	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
 
 	&lt;!-- Icons --&gt;
-		&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/icons/favicon.ico&quot;&gt;
-		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;images/icons/apple-touch-icon-144-precomposed.png&quot;&gt;
-		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;images/icons/apple-touch-icon-114-precomposed.png&quot;&gt;
-		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;images/icons/apple-touch-icon-72-precomposed.png&quot;&gt;
-		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;images/icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/icons/favicon.ico&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;images/icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;images/icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;images/icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;images/icons/apple-touch-icon-57-precomposed.png&quot;&gt;
 
 	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
 	&lt;!--[if lt IE 9]&gt;
 		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
+		&lt;![endif]--&gt;
 
-	&lt;!-- Styles --&gt;
-	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
-	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/mj.css&quot; /&gt;
-&lt;/head&gt;
-&lt;body&gt;
-	
-	&lt;!-- Content --&gt;
-	&lt;div class=&quot;container&quot;&gt;
-		&lt;div&gt;
-  &lt;h1 id=&quot;mjlogo&quot; class=&quot;text-center&quot;&gt;&lt;span style=&quot;color:#236B49&quot;&gt;Marital &lt;/span&gt;&lt;span style=&quot;color:#2673D2&quot;&gt;Justice &lt;/span&gt;&lt;br/&gt;&lt;small&gt;&lt;span style=&quot;color:#236B49&quot;&gt;One's gain, &lt;/span&gt; &lt;span style=&quot;color:#2673D2&quot;&gt;another's pain &lt;/small&gt;&lt;/small&gt;&lt;/h1&gt;
+		&lt;!-- Styles --&gt;
+		&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+		&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/mj.css&quot; /&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+&lt;div class=&quot;alert alert-info text-center&quot;&gt;
+  We are working hard to refresh the design and content of Marital Justice. Please be patient - thanks!
 &lt;/div&gt;
 
-
-
-		&lt;!-- Menu --&gt;
-	&lt;div class=&quot;navbar navbar-inverse&quot;&gt;
+		&lt;!-- Content --&gt;
 		&lt;div class=&quot;container&quot;&gt;
-			&lt;div class=&quot;navbar-header&quot;&gt;
-				&lt;button type=&quot;button&quot; class=&quot;navbar-toggle&quot; data-toggle=&quot;collapse&quot; data-target=&quot;.navbar-collapse&quot;&gt;
-					&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
-					&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
-					&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
-				&lt;/button&gt;
-				&lt;a class=&quot;navbar-brand&quot; href=&quot;/&quot;&gt;Home&lt;/a&gt;
+
+			&lt;div class=&quot;page-header&quot;&gt;
+				&lt;h1 id=&quot;mjlogo&quot; class=&quot;text-center&quot;&gt;&lt;span style=&quot;color:#236B49&quot;&gt;Marital &lt;/span&gt;&lt;span style=&quot;color:#2673D2&quot;&gt;Justice &lt;/span&gt;&lt;br/&gt;&lt;small&gt;&lt;span style=&quot;color:#236B49&quot;&gt;One's gain, &lt;/span&gt; &lt;span style=&quot;color:#2673D2&quot;&gt;another's pain &lt;/small&gt;&lt;/small&gt;&lt;/h1&gt;
 			&lt;/div&gt;
-			&lt;div class=&quot;navbar-collapse collapse&quot;&gt;
-				&lt;ul class=&quot;nav navbar-nav&quot;&gt;
-					
-						&lt;li
-							typeof=&quot;sioc:Page&quot;
-							about=&quot;/pages/knowledgebase&quot;
-							class=&quot;&quot;
-						&gt;
-							&lt;a href=&quot;/pages/knowledgebase&quot; property=&quot;dc:title&quot; class=&quot;navbar-link&quot;&gt;
-								Knowledgebase
-							&lt;/a&gt;
-						&lt;/li&gt;
-					
-						&lt;li
-							typeof=&quot;sioc:Page&quot;
-							about=&quot;/pages/contact&quot;
-							class=&quot;&quot;
-						&gt;
-							&lt;a href=&quot;/pages/contact&quot; property=&quot;dc:title&quot; class=&quot;navbar-link&quot;&gt;
-								Contact
-							&lt;/a&gt;
-						&lt;/li&gt;
-					
-						&lt;li
+
+
+
+			&lt;!-- Menu --&gt;
+			&lt;div class=&quot;navbar navbar-inverse&quot;&gt;
+				&lt;div class=&quot;container&quot;&gt;
+					&lt;div class=&quot;navbar-header&quot;&gt;
+						&lt;button type=&quot;button&quot; class=&quot;navbar-toggle&quot; data-toggle=&quot;collapse&quot; data-target=&quot;.navbar-collapse&quot;&gt;
+							&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+							&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+							&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+						&lt;/button&gt;
+						&lt;a class=&quot;navbar-brand&quot; href=&quot;/&quot;&gt;Home&lt;/a&gt;
+					&lt;/div&gt;
+					&lt;div class=&quot;navbar-collapse collapse&quot;&gt;
+						&lt;ul class=&quot;nav navbar-nav&quot;&gt;
+							
+							&lt;li
 							typeof=&quot;sioc:Page&quot;
 							about=&quot;/pages/about&quot;
 							class=&quot;&quot;
-						&gt;
+							&gt;
 							&lt;a href=&quot;/pages/about&quot; property=&quot;dc:title&quot; class=&quot;navbar-link&quot;&gt;
 								About Us
 							&lt;/a&gt;
 						&lt;/li&gt;
-					
-						&lt;li
+						
+							&lt;li
+							typeof=&quot;sioc:Page&quot;
+							about=&quot;/pages/knowledgebase&quot;
+							class=&quot;&quot;
+							&gt;
+							&lt;a href=&quot;/pages/knowledgebase&quot; property=&quot;dc:title&quot; class=&quot;navbar-link&quot;&gt;
+								Knowledgebase
+							&lt;/a&gt;
+						&lt;/li&gt;
+						
+							&lt;li
+							typeof=&quot;sioc:Page&quot;
+							about=&quot;/pages/contact&quot;
+							class=&quot;&quot;
+							&gt;
+							&lt;a href=&quot;/pages/contact&quot; property=&quot;dc:title&quot; class=&quot;navbar-link&quot;&gt;
+								Contact
+							&lt;/a&gt;
+						&lt;/li&gt;
+						
+							&lt;li
 							typeof=&quot;sioc:Page&quot;
 							about=&quot;/pages/events&quot;
 							class=&quot;&quot;
-						&gt;
+							&gt;
 							&lt;a href=&quot;/pages/events&quot; property=&quot;dc:title&quot; class=&quot;navbar-link&quot;&gt;
 								Events
 							&lt;/a&gt;
 						&lt;/li&gt;
-					
-						&lt;li
+						
+							&lt;li
 							typeof=&quot;sioc:Page&quot;
 							about=&quot;/posts/posts&quot;
 							class=&quot;&quot;
-						&gt;
+							&gt;
 							&lt;a href=&quot;/posts/posts&quot; property=&quot;dc:title&quot; class=&quot;navbar-link&quot;&gt;
 								Posts
 							&lt;/a&gt;
 						&lt;/li&gt;
-					
-				&lt;/ul&gt;
-			&lt;/div&gt;&lt;!--/.navbar-collapse --&gt;
+						
+					&lt;/ul&gt;
+				&lt;/div&gt;&lt;!--/.navbar-collapse --&gt;
+			&lt;/div&gt;
 		&lt;/div&gt;
-	&lt;/div&gt;
 
 		&lt;!-- Content --&gt;
 		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
@@ -148,16 +152,12 @@
 		&lt;/section&gt;
 
 		&lt;!-- Footer --&gt;
-		 
-		 	&lt;div class=&quot;well&quot;&gt;
-		 		&lt;footer class=&quot;text-center&quot;&gt;
-		 &lt;a href=&quot;/&quot;&gt;Media&lt;/a&gt; &lt;a href=&quot;/&quot;&gt;Get involved&lt;/a&gt; 
-&lt;a href=&quot;/&quot;&gt;Partner sites&lt;/a&gt; &lt;a href=&quot;/&quot;&gt;Sitemap&lt;/a&gt; &lt;a href=&quot;/&quot;&gt;Privacy policy&lt;/a&gt;
 
-
-		
-&lt;/div&gt;
-&lt;/footer&gt;
+		&lt;div class=&quot;well&quot;&gt;
+			&lt;footer class=&quot;text-center&quot;&gt;
+				&lt;a href=&quot;/partners.html&quot;&gt;Partners&lt;/a&gt; | &lt;a href=&quot;/&quot;&gt;Media&lt;/a&gt; | &lt;a href=&quot;/&quot;&gt;Privacy &lt;/a&gt;
+			&lt;/footer&gt;
+		&lt;/div&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
 
 	&lt;!-- Scripts --&gt;
@@ -180,7 +180,7 @@
 	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
 
 	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
-		 More info: h5bp.com/i/378 --&gt;
+	More info: h5bp.com/i/378 --&gt;
 	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 
 	&lt;!-- Our site title and description --&gt;
@@ -196,99 +196,103 @@
 	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
 
 	&lt;!-- Icons --&gt;
-		&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/icons/favicon.ico&quot;&gt;
-		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;images/icons/apple-touch-icon-144-precomposed.png&quot;&gt;
-		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;images/icons/apple-touch-icon-114-precomposed.png&quot;&gt;
-		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;images/icons/apple-touch-icon-72-precomposed.png&quot;&gt;
-		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;images/icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/icons/favicon.ico&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;images/icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;images/icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;images/icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;images/icons/apple-touch-icon-57-precomposed.png&quot;&gt;
 
 	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
 	&lt;!--[if lt IE 9]&gt;
 		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
+		&lt;![endif]--&gt;
 
-	&lt;!-- Styles --&gt;
-	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
-	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/mj.css&quot; /&gt;
-&lt;/head&gt;
-&lt;body&gt;
-	
-	&lt;!-- Content --&gt;
-	&lt;div class=&quot;container&quot;&gt;
-		&lt;div&gt;
-  &lt;h1 id=&quot;mjlogo&quot; class=&quot;text-center&quot;&gt;&lt;span style=&quot;color:#236B49&quot;&gt;Marital &lt;/span&gt;&lt;span style=&quot;color:#2673D2&quot;&gt;Justice &lt;/span&gt;&lt;br/&gt;&lt;small&gt;&lt;span style=&quot;color:#236B49&quot;&gt;One's gain, &lt;/span&gt; &lt;span style=&quot;color:#2673D2&quot;&gt;another's pain &lt;/small&gt;&lt;/small&gt;&lt;/h1&gt;
+		&lt;!-- Styles --&gt;
+		&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+		&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/mj.css&quot; /&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+&lt;div class=&quot;alert alert-info text-center&quot;&gt;
+  We are working hard to refresh the design and content of Marital Justice. Please be patient - thanks!
 &lt;/div&gt;
 
-
-
-		&lt;!-- Menu --&gt;
-	&lt;div class=&quot;navbar navbar-inverse&quot;&gt;
+		&lt;!-- Content --&gt;
 		&lt;div class=&quot;container&quot;&gt;
-			&lt;div class=&quot;navbar-header&quot;&gt;
-				&lt;button type=&quot;button&quot; class=&quot;navbar-toggle&quot; data-toggle=&quot;collapse&quot; data-target=&quot;.navbar-collapse&quot;&gt;
-					&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
-					&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
-					&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
-				&lt;/button&gt;
-				&lt;a class=&quot;navbar-brand&quot; href=&quot;/&quot;&gt;Home&lt;/a&gt;
+
+			&lt;div class=&quot;page-header&quot;&gt;
+				&lt;h1 id=&quot;mjlogo&quot; class=&quot;text-center&quot;&gt;&lt;span style=&quot;color:#236B49&quot;&gt;Marital &lt;/span&gt;&lt;span style=&quot;color:#2673D2&quot;&gt;Justice &lt;/span&gt;&lt;br/&gt;&lt;small&gt;&lt;span style=&quot;color:#236B49&quot;&gt;One's gain, &lt;/span&gt; &lt;span style=&quot;color:#2673D2&quot;&gt;another's pain &lt;/small&gt;&lt;/small&gt;&lt;/h1&gt;
 			&lt;/div&gt;
-			&lt;div class=&quot;navbar-collapse collapse&quot;&gt;
-				&lt;ul class=&quot;nav navbar-nav&quot;&gt;
-					
-						&lt;li
-							typeof=&quot;sioc:Page&quot;
-							about=&quot;/pages/knowledgebase&quot;
-							class=&quot;&quot;
-						&gt;
-							&lt;a href=&quot;/pages/knowledgebase&quot; property=&quot;dc:title&quot; class=&quot;navbar-link&quot;&gt;
-								Knowledgebase
-							&lt;/a&gt;
-						&lt;/li&gt;
-					
-						&lt;li
-							typeof=&quot;sioc:Page&quot;
-							about=&quot;/pages/contact&quot;
-							class=&quot;&quot;
-						&gt;
-							&lt;a href=&quot;/pages/contact&quot; property=&quot;dc:title&quot; class=&quot;navbar-link&quot;&gt;
-								Contact
-							&lt;/a&gt;
-						&lt;/li&gt;
-					
-						&lt;li
+
+
+
+			&lt;!-- Menu --&gt;
+			&lt;div class=&quot;navbar navbar-inverse&quot;&gt;
+				&lt;div class=&quot;container&quot;&gt;
+					&lt;div class=&quot;navbar-header&quot;&gt;
+						&lt;button type=&quot;button&quot; class=&quot;navbar-toggle&quot; data-toggle=&quot;collapse&quot; data-target=&quot;.navbar-collapse&quot;&gt;
+							&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+							&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+							&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+						&lt;/button&gt;
+						&lt;a class=&quot;navbar-brand&quot; href=&quot;/&quot;&gt;Home&lt;/a&gt;
+					&lt;/div&gt;
+					&lt;div class=&quot;navbar-collapse collapse&quot;&gt;
+						&lt;ul class=&quot;nav navbar-nav&quot;&gt;
+							
+							&lt;li
 							typeof=&quot;sioc:Page&quot;
 							about=&quot;/pages/about&quot;
 							class=&quot;&quot;
-						&gt;
+							&gt;
 							&lt;a href=&quot;/pages/about&quot; property=&quot;dc:title&quot; class=&quot;navbar-link&quot;&gt;
 								About Us
 							&lt;/a&gt;
 						&lt;/li&gt;
-					
-						&lt;li
+						
+							&lt;li
+							typeof=&quot;sioc:Page&quot;
+							about=&quot;/pages/knowledgebase&quot;
+							class=&quot;&quot;
+							&gt;
+							&lt;a href=&quot;/pages/knowledgebase&quot; property=&quot;dc:title&quot; class=&quot;navbar-link&quot;&gt;
+								Knowledgebase
+							&lt;/a&gt;
+						&lt;/li&gt;
+						
+							&lt;li
+							typeof=&quot;sioc:Page&quot;
+							about=&quot;/pages/contact&quot;
+							class=&quot;&quot;
+							&gt;
+							&lt;a href=&quot;/pages/contact&quot; property=&quot;dc:title&quot; class=&quot;navbar-link&quot;&gt;
+								Contact
+							&lt;/a&gt;
+						&lt;/li&gt;
+						
+							&lt;li
 							typeof=&quot;sioc:Page&quot;
 							about=&quot;/pages/events&quot;
 							class=&quot;&quot;
-						&gt;
+							&gt;
 							&lt;a href=&quot;/pages/events&quot; property=&quot;dc:title&quot; class=&quot;navbar-link&quot;&gt;
 								Events
 							&lt;/a&gt;
 						&lt;/li&gt;
-					
-						&lt;li
+						
+							&lt;li
 							typeof=&quot;sioc:Page&quot;
 							about=&quot;/posts/posts&quot;
 							class=&quot;&quot;
-						&gt;
+							&gt;
 							&lt;a href=&quot;/posts/posts&quot; property=&quot;dc:title&quot; class=&quot;navbar-link&quot;&gt;
 								Posts
 							&lt;/a&gt;
 						&lt;/li&gt;
-					
-				&lt;/ul&gt;
-			&lt;/div&gt;&lt;!--/.navbar-collapse --&gt;
+						
+					&lt;/ul&gt;
+				&lt;/div&gt;&lt;!--/.navbar-collapse --&gt;
+			&lt;/div&gt;
 		&lt;/div&gt;
-	&lt;/div&gt;
 
 		&lt;!-- Content --&gt;
 		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
@@ -304,16 +308,12 @@
 		&lt;/section&gt;
 
 		&lt;!-- Footer --&gt;
-		 
-		 	&lt;div class=&quot;well&quot;&gt;
-		 		&lt;footer class=&quot;text-center&quot;&gt;
-		 &lt;a href=&quot;/&quot;&gt;Media&lt;/a&gt; &lt;a href=&quot;/&quot;&gt;Get involved&lt;/a&gt; 
-&lt;a href=&quot;/&quot;&gt;Partner sites&lt;/a&gt; &lt;a href=&quot;/&quot;&gt;Sitemap&lt;/a&gt; &lt;a href=&quot;/&quot;&gt;Privacy policy&lt;/a&gt;
 
-
-		
-&lt;/div&gt;
-&lt;/footer&gt;
+		&lt;div class=&quot;well&quot;&gt;
+			&lt;footer class=&quot;text-center&quot;&gt;
+				&lt;a href=&quot;/partners.html&quot;&gt;Partners&lt;/a&gt; | &lt;a href=&quot;/&quot;&gt;Media&lt;/a&gt; | &lt;a href=&quot;/&quot;&gt;Privacy &lt;/a&gt;
+			&lt;/footer&gt;
+		&lt;/div&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
 
 	&lt;!-- Scripts --&gt;
