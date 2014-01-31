@@ -3,8 +3,8 @@ body {
 	margin: 0;
 }
 #mjlogo {
-	font-size:48px;
-	margin:20px;
+	font-size:38px;
+	
 }
 
 h3, .navbar {
@@ -38,4 +38,5 @@ footer {
 	top:0px;
 	width: 100%;
 	opacity:  0.3;
+	display: block;
 }
