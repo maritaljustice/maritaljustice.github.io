@@ -1,6 +1,7 @@
 body {
 	  font-size: 16px;
 	 /*  background-image: url("/images/bgooo.jpg"); */
+	 background:#e4f4f1;
 	
 
 }
@@ -10,7 +11,7 @@ body {
 	
 }
 
-h3, .navbar {
+h2, h3, .navbar {
 	font-variant: small-caps;
 	letter-spacing: 0.1em;
 }
@@ -31,10 +32,19 @@ h3, .navbar {
     height:100%;
 }
 
+.jumbotron {
+background-color: #c1e7de;
+}
+
+ .well, .thumbnail, .panel-body  {
+	 background-color: #e4f4f1;
+}
+
 
 .panel-primary > .panel-heading { 
   color: #ffffff;
-  /* background-color: #2673D2;
+/* background-color: #e4f4f1;
+   background-color: #2673D2;
   border-color: #2673D2; */
 }
 .navbar, .panel-heading {
@@ -52,7 +62,7 @@ margin-top:0;
 
 #bounds {
 display:block;
-background:rgba(255,255,255,.98);
+background:#e4f4f1; /* rgba(255,255,255,.98); */
 color:#333;
 box-shadow:0 3px 25px rgba(0,0,0,.2);
 border:1px solid rgba(0,0,0,.2);
@@ -62,6 +72,7 @@ padding: 20px 30px 20px 30px;
 footer {
 	margin-top: 30px;
 	border-top: 1px #ccc solid;
+	background-color: #e4f4f1;
 }
 
 .panel {
