@@ -14,6 +14,7 @@ body {
 h2, h3, .navbar {
 	font-variant: small-caps;
 	letter-spacing: 0.1em;
+	color:#226b4c;
 }
 
 
@@ -42,7 +43,9 @@ background-color: #c1e7de;
 
 
 .panel-primary > .panel-heading { 
-  color: #ffffff;
+  color: #226b4c;
+  background-color: #c1e7de;
+  border:none;
 /* background-color: #e4f4f1;
    background-color: #2673D2;
   border-color: #2673D2; */
